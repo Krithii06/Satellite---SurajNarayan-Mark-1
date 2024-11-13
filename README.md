@@ -5,9 +5,6 @@ This project showcases the development and deployment of the **SurajNarayan Mark
 ![4-1](https://github.com/user-attachments/assets/a3b14fe7-6016-4264-87f9-7641b6d506f4)
 ![4-2](https://github.com/user-attachments/assets/2ccdd344-47db-4bd0-a550-f43e3c92399c)
 ![4-3](https://github.com/user-attachments/assets/826be7c5-b337-4b44-bba5-9b5f78d7fc92)
-![4-3](https://github.com/user-attachments/assets/c6588340-7610-4570-af7c-031cd945e927)
-![4-2](https://github.com/user-attachments/assets/4bb690bd-15b1-48e1-80a9-b30ce1aba974)
-
 
 ## Key Features
 - **Multi-Sensor Array:** Monitors temperature, humidity, and atmospheric pressure.
