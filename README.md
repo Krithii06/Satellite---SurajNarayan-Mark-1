@@ -1,4 +1,5 @@
-# SurajNarayan Mark - 1: Advanced CubeSat Mission
+# SurajNarayan Mark - 1: Advanced CubeSat Mission 
+**Portfolio: https://suraj-narayana-krithick-balaji-ramesh.netlify.app/**
 
 ## Overview
 This project showcases the development and deployment of the **SurajNarayan Mark - 1 CubeSat**, an advanced satellite designed for environmental monitoring and conducting space-based experiments. It includes a comprehensive suite of technologies such as multi-sensor arrays, solar energy management, GPS tracking, and more, to enhance space research and data collection.
